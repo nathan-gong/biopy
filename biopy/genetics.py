@@ -1,6 +1,3 @@
-# BioPy
-# Nathan Gong
-
 import itertools
 
 # DATA TABLES
