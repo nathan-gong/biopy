@@ -7,11 +7,10 @@ setuptools.setup(
     name="biopy-nathan-gong", 
     version="0.0.1",
     author="Nathan Gong",
-    # author_email="nathangong9@gmail.com",
-    description="A package containing common biology algorithms",
+    description="A package for biology algorithms",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/nathan-gong/bio",
+    url="https://github.com/nathan-gong/biopy",
     packages=setuptools.find_packages(),
     classifiers=[
         "Programming Language :: Python :: 3",
