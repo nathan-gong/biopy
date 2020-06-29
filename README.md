@@ -1,6 +1,10 @@
 # BioPy
 
-A light package containing useful algorithms for bioengineering and bioinformatics.
+A Python package containing useful algorithms for bioengineering and bioinformatics.
 
-#### Dependencies:
+### Modules:
+- genetics
+- heredity
+
+### Dependencies:
 - itertools
